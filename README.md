@@ -1,1 +1,3 @@
 # boxerImageStudy
+
+# Abby and Penny are good girls. This repository will involve playing with images and classification, and fun stuff. Now stay.... stay....
